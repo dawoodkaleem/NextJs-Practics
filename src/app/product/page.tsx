@@ -3,7 +3,7 @@ const ProductsList = () => {
   return (
     <>
       <Link href="/">Home</Link>
-      <h1>Product list</h1>
+      <h1>Product List</h1>
       <h2>
         <Link href="/product/1">Product 1</Link>
       </h2>
